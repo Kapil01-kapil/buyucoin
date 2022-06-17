@@ -1,0 +1,6 @@
+module Pods_buyucoin {
+  umbrella header "Pods-buyucoin-umbrella.h"
+
+  export *
+  module * { export * }
+}
